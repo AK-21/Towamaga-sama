@@ -23,4 +23,4 @@ Be quick - you have to do it, before kana symbols fell out of border.<br>
 <a href ="https://www.dropbox.com/s/yszv20m7iiz8wer/TowamagaSama.zip?dl=0"><h2>Download playable DEMO</h2></a>
 
 
-<strong>This game requires a graphics card compatible with OpenGL!</strong>
+<strong>This game requires Java Runtime Environment 8 or higher and a graphics card compatible with OpenGL!</strong>
