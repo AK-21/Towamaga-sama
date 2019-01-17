@@ -1,4 +1,5 @@
 # トワマガ様 (Towamaga-sama)
+<strong>Languages: Polish, English</strong><br><br>
 <a href="https://github.com/AK-21/AmeEnjin" target="_blank">AmeEnjin v0.2</a> playable DEMO
 <br>
 <br>
