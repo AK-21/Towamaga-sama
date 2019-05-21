@@ -1,6 +1,6 @@
 # トワマガ様 (Towamaga-sama)
 <strong>Languages: Polish, English</strong><br><br>
-<a href="https://github.com/AK-21/AmeEnjin" target="_blank">AmeEnjin v0.2</a> playable DEMO
+<a href="https://github.com/AK-21/AmeEnjin" target="_blank">AmeEnjin v0.2.1</a> playable DEMO
 <br>
 <br>
 Face powerful warrior and defeat him, learning japanese kana.<br>
@@ -20,7 +20,7 @@ Be quick - you have to do it, before kana symbols fell out of border.<br>
 <strong>[Arrow UP/DOWN]</strong> - Select ability<br>
 
 
-<a href ="https://www.dropbox.com/s/yszv20m7iiz8wer/TowamagaSama.zip?dl=0"><h2>Download playable DEMO</h2></a>
+<a href ="https://www.dropbox.com/s/k9rjfuax4i8vpu0/TowamagaSama.zip?dl=0"><h2>Download playable DEMO</h2></a>
 
 
 <strong>This game requires Java Runtime Environment 8 or higher and a graphics card compatible with OpenGL!</strong>
